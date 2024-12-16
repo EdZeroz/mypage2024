@@ -12,7 +12,7 @@ table {
   }
    thead,
   tfoot {
-    background-color: rgb(228 240 245);
+    background-color: rgb(0, 179, 255);
   }
    th,
   td {
@@ -23,7 +23,7 @@ table {
     text-align: center;
   }
    tbody > tr:nth-of-type(even) {
-    background-color: rgb(237 238 242);
+    background-color: rgb(255, 103, 149);
   }
    tfoot th {
     text-align: right;
@@ -31,4 +31,12 @@ table {
    tfoot td {
     font-weight: bold;
   }
- 
+body{
+    background-color: bisque;
+}
+h1{
+    background-color: aqua;
+}
+hr{
+    border-style: dashed double none; height: 20px;
+}
